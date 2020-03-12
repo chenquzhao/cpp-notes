@@ -2,7 +2,7 @@
 
 int main()
 {
-	// input integer
+	// input integer (support 'int' type only)
 	int a;
 	printf("Please input an integer: ");
 	scanf_s("%d", &a);
