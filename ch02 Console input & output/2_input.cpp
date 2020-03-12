@@ -3,6 +3,7 @@
 int main()
 {
 	// input integer (support 'int' type only)
+	// scanf_s proceeds line feed automatically
 	int a;
 	printf("Please input an integer: ");
 	scanf_s("%d", &a);
