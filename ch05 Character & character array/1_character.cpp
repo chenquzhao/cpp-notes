@@ -10,7 +10,7 @@ int main()
 	printf("%c, %c, %c \n", ch1, ch2, ch3); // all map to 'A'
 	printf("%d, %d, %d \n", ch1, ch2, ch3); // all map to 65
 
-	// '\n' -> Enter, '\t' -> Tab, '\\' or 92 -> '\'
+	// '\n' -> Enter, '\t' -> Tab, '\"' -> '"', '\\' or 92 -> '\'
 	printf("%c%c%c%c", '1', '\t', '2', '\\');
 
 	return 0;
