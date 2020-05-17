@@ -24,7 +24,7 @@ int main()
 	
 	// analyse variable address
 	int a = 0x12345678;
-	printf("address: %08X \n", &a); // add checkpoint, press F5 and check automatic window
+	printf("address: %p \n", &a); // add checkpoint, press F5 and check automatic window
 
 	a = 0x05050505; // add checkpoint, switch to internal storage window, search '&a' and type F10
 
