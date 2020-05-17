@@ -1,8 +1,8 @@
 /*
 Use an array to represent the following data, 
 there are 13 students in a class, and the scores of an exam are as follows:
-#StudentID  #Score  #StudentID  #Score
-20130101	98.5	20130108	89
+#StudentID      #Score  	#StudentID  	#Score
+20130101	98.5		20130108	89
 20130102	94		20130109	80.5
 20130103	97		20130110	78
 20130104	87		20130111	76
