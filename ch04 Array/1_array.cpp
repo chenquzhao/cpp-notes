@@ -2,7 +2,7 @@
 
 int main()
 {
-	// define array: element type (char/short/int/cloat/double/...), array name, element amounts
+	// define array: element type (char/short/int/float/double/...), array name, element amounts
 	char arr[5];
 	char arr_[5] = {90,91,92,93,94}; // one char map to 1 Byte in storage
 	char b[5] = {90,91}; // define first 2 elements only
