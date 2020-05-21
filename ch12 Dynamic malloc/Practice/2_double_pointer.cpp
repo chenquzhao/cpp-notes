@@ -13,7 +13,6 @@ void getMemory(char** p)
 
 int main()
 {
-	// legal, str points to a brunch of memory
 	char* str = NULL;
 
 	getMemory(&str);
