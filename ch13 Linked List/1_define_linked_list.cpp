@@ -45,6 +45,7 @@ int main()
 		p = p->next;
 	}
 
+	// find target
 	Student* target = find(&s[0], 202002);
 	printf("Target student is %s", target->name);
 
